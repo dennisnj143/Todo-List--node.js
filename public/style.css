@@ -1,0 +1,21 @@
+
+        body{
+            background-color: chocolate; 
+        }
+
+        h2{
+            text-align: center;
+             color: yellow;
+             font-weight: bold;
+        }
+        h3{text-align: center;
+             color: pink;
+            }
+
+        p{text-align: center; 
+            color: pink;
+        }
+
+        ul{text-align: center; 
+             color: seashell;
+            }
